@@ -1,0 +1,5 @@
+deployment.apps/webmlmodel-udacity created
+NAME                                 READY   STATUS    RESTARTS   AGE
+webmlmodel-udacity-6b8575745-fjtc9   0/1     Pending   0          0s
+Forwarding from 127.0.0.1:8000 -> 80
+Handling connection for 8000
